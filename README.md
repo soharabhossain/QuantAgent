@@ -32,9 +32,10 @@ quantagent/
 ├── app3.py                     # Visual dashboard or CLI for insights
 ├── requirements.txt            # Required Python packages
 └── assets/
-    ├── image1.png              # Architecture diagram / sample output
-    ├── image2.png              # Agentic flow visualization
-    └── image3.png              # Strategy performance chart
+    ├── image.png               # Visual/Chart strategy backtesting
+    ├── image1.png              # Agentic analysis output 1
+    ├── image2.png              # Agentic analysis output 2
+    └── image3.png              # Agentic analysis output 3
 ```
 
 ---
@@ -89,8 +90,11 @@ Each agent is pluggable and can be replaced with improved logic or models.
 ## 📊 Sample Outputs
 
 Here are some visual examples from the project:
+| Strategy Analysis |
+|------------|-------------------|---------------------|
+| ![Agent Flow](assets/image.png) | 
 
-| Agent Flow | Strategy Analysis | Risk Visualization |
+| Agentic Analysis 1 | Agentic Analysis 2 | Agentic Analysis 3 |
 |------------|-------------------|---------------------|
 | ![Agent Flow](assets/image1.png) | ![Strategy](assets/image2.png) | ![Risk](assets/image3.png) |
 
