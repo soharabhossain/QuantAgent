@@ -1,0 +1,2 @@
+crewai>=0.21.2
+openai
