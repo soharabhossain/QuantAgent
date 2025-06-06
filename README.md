@@ -45,8 +45,8 @@ quantagent/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/soharabhossain/quantagent.git
-cd quantagent
+git clone https://github.com/soharabhossain/QuantAgent.git
+cd QuantAgent
 ```
 
 ### 2. Install Dependencies
