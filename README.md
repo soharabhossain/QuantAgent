@@ -27,9 +27,9 @@ quantagent/
 │   ├── model_predictor.py      # Agent using ML models to predict price trends
 │   ├── risk_assessor.py        # Agent to evaluate trading risks
 │   └── decision_maker.py       # Agent to make final buy/sell/hold decisions
-├── app1.py                     # Script to run full agent pipeline
-├── app2.py                     # Strategy backtesting interface
-├── app3.py                     # Visual dashboard or CLI for insights
+├── app1.py                     # Script to run the agentic pipeline
+├── app2.py                     # Strategy backtesting comparisons 
+├── app3.py                     # Individual strategy backtesting
 ├── requirements.txt            # Required Python packages
 └── assets/
     ├── image.png               # Visual/Chart strategy backtesting
@@ -130,4 +130,4 @@ Contributions are welcome! Please fork the repo and create a pull request, or op
 
 ## 📬 Contact
 
-For questions or suggestions, reach out to [Soharab Hossain Shaikh] at [soharab.hossain@gmail.com] or connect via [LinkedIn](https://www.linkedin.com/in/soharab).
+For questions or suggestions, reach out to me at [soharab.hossain@gmail.com] or connect via [LinkedIn](https://www.linkedin.com/in/soharab).
